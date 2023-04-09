@@ -22,6 +22,7 @@
 .how > h2 {
   margin-top: 3rem;
   color: #000000;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .how > p {
@@ -30,6 +31,8 @@
   padding: 0.5rem 0 1rem 0;
   margin-right: 1rem;
   margin-bottom: 1rem;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
 }
 
 .how-list {
@@ -37,21 +40,43 @@
   padding: 1rem 0 1rem 0;
   margin-left: 1rem;
   margin-bottom: 0.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.how-list >li, b, a {
+  color: #000000;
+  margin-bottom: 0.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.how-list > li > a:hover {
+  color:rgba(13, 82, 152, 0.666)
+}
+.how > p > a:hover {
+  color:rgba(13, 82, 152, 0.666)
+}
+
+.meeting {
+  padding: 1rem 0 3rem 0;
 }
 
 .meeting > h2 {
   color: #000000;
   margin-bottom: 0.5rem;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .meeting > h3 {
   color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .meeting > p {
   color: #000000;
   text-decoration: none;
-  padding: 1rem 0 2rem 0;
-  margin-right: 1em;
-  margin-bottom: 1rem;
+  padding: 0.3rem 0 0.1rem 0;
+  margin-bottom: 0.3rem;
+  font-family: 'Montserrat', sans-serif;
 }

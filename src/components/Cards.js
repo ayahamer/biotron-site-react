@@ -12,28 +12,28 @@ export default function Cards() {
           <ul className="cards-item"> {/* connecting card component in CardIndv */}
             <CardIndv 
               src="public/handtopview.jpeg"
-              text="Look at this cool hand"
-              label='Hand' 
-              path='/projects'
+              text="Our Team"
+              label='Team' 
+              path='/about'
             />
             <CardIndv 
               src="public/handtopview.jpeg"
-              text="Look at this cool hand"
-              label='Hand' 
+              text="EMG Fabric for..."
+              label='Project' 
               path='/projects'
             />
           </ul>
           <ul className="cards-item"> {/* connecting card component in CardIndv */}
             <CardIndv 
               src="public/handtopview.jpeg"
-              text="Look at this cool hand"
-              label='Hand' 
+              text="3D-printed prosthetics"
+              label='Project' 
               path='/projects'
             />
             <CardIndv 
               src="public/handtopview.jpeg"
-              text="Look at this cool hand"
-              label='Hand' 
+              text="A spine stiker that..."
+              label='Project' 
               path='/projects'
             />
           </ul>

@@ -19,21 +19,9 @@
   margin: 0 auto;
 }
 
-.intro > h2 {
-  margin-top: 3rem;
-  color: #000000;
-}
-
-.intro > p {
-  color: #000000;
-  text-decoration: none;
-  padding: 1rem 0 2rem 0;
-  margin-right: 1em;
-  margin-bottom: 1rem;
-}
-
 .emg-fabric > h2 {
   color: #000000;
+  margin-top: 2rem;
 }
 
 .emg.fabric > p {
@@ -57,11 +45,11 @@
   margin-bottom: 1rem;
 }
 
-.neo-wolf > h2 {
+.spine > h2 {
   color: #000000;
 }
 
-.neo-wolf > p {
+.spine > p {
   color: #000000;
   text-decoration: none;
   padding: 1rem 0 2rem 0;

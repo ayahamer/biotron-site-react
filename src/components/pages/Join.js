@@ -26,14 +26,10 @@ export default function Join() {
   <div className="meeting"> 
     <h2>Meeting Schedule</h2>
     <h3>Spring 23</h3>
-    <p> Team Meeting: TBD 
-      <br />
-      EMG Fabric: Wednesdays Bi-Weekly @ 6pm
-      <br />
-      e-NABLE: Thursdays Bi-Weekly @ 7pm
-      <br />
-      Neo-Wolf: Mondays Bi-Weekly @ 7pm
-    </p>
+    <p> Team Meeting: TBD </p>
+    <p> EMG Fabric: Wednesdays Bi-Weekly @ 6pm </p>
+    <p> e-NABLE: Thursdays Bi-Weekly @ 7pm </p>
+    <p> Spine Bio Sticker: Mondays Bi-Weekly @ 7pm </p>
   </div>
 </div>
 
