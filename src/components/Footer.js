@@ -8,10 +8,13 @@ function Footer() {
       <div className='footer-links'>
         <div className='footer-links-wrapper'>
           <div className="footer-links-items">
-              <Link to= 'mailto:biotron@uwaterloo.ca'> Email </Link>
-              <Link to='/join'> Instagram </Link>
-              <Link to='/join'> Facebook </Link>
-              <Link to='/join'> LinkedIn </Link>
+              <Link to= 'mailto:biotron@uwaterloo.ca'> <i class="fa-solid fa-envelope"></i> </Link>
+
+              <Link to='/join'> <i class="fa-brands fa-instagram"></i> </Link>
+
+              <Link to='/join'> <i class="fa-brands fa-square-facebook"></i> </Link>
+
+              <Link to='/join'> <i class="fa-brands fa-linkedin"></i> </Link>
 
           </div>
         </div>
