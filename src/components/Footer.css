@@ -18,6 +18,15 @@
 .footer-links-wrapper {
   display: flex;
   justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer-links-wrapper > h2 {
+ color: #222222;
+ font-size: 13px;
+ padding: 1.5rem 0 0.5rem 0;
+ font-family: "Montserrat", sans-serif;
 }
 
 .footer-links-items {
@@ -25,10 +34,6 @@
   flex-direction: row;
   text-align: center;
   box-sizing: border-box; 
-}
-
-.footer-links-items > h2 {
-  color: #fff;
 }
 
 .footer-links-items a {

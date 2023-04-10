@@ -27,9 +27,9 @@ export default function Join() {
     <h2>Meeting Schedule</h2>
     <h3>Spring 23</h3>
     <p> Team Meeting: TBD </p>
-    <p> EMG Fabric: Wednesdays Bi-Weekly @ 6pm </p>
-    <p> e-NABLE: Thursdays Bi-Weekly @ 7pm </p>
-    <p> Spine Bio Sticker: Mondays Bi-Weekly @ 7pm </p>
+    <p> EMG Fabric: TBD </p>
+    <p> e-NABLE: TBD </p>
+    <p> Spine Bio Sticker: TBD </p>
   </div>
 </div>
 

@@ -17,6 +17,8 @@ function Footer() {
               <Link to='/join'> <i class="fa-brands fa-linkedin"></i> </Link>
 
           </div>
+          
+          <h2>UW Biomechatronics 2023</h2>
         </div>
       </div>
       
