@@ -39,10 +39,34 @@
   line-height: 1.5;
 }
 
+.team {
+  flex-direction: column;
+  display: flex;
+}
+
 .team > h2 {
-  color: #000000;
+  color: #1e1d1d;
   justify-content: left;
   font-family: "Montserrat", sans-serrif;
+}
+
+.team-lead {
+  flex-direction: row;
+}
+
+.emg-lead {
+  flex-direction: row;
+  display: flex;
+}
+
+.enable-lead {
+  flex-direction: row;
+  display: flex;
+}
+
+.enable-lead-item {
+  margin-right: 2rem;
+  align-items: center;
 }
 
 .team > p {

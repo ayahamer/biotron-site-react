@@ -2,6 +2,7 @@ import React from 'react';
 import '../../App.css';
 import Footer from '../Footer';
 import './Join.css';
+import {Link} from 'react-router-dom';
 
 export default function Join() {
  return (
@@ -18,7 +19,7 @@ export default function Join() {
         <li> Attend our in-person meetings to learn more about the team and start working on projects. This semester's meeting schedule is below!</li>
       </ol>
 
-      If you have any questions feel free to message any of the <a href="http://localhost:3000/team#/about:~:text=id%20est%20laborum.-,Our%20Team,-Lorem%20ipsum%20dolor">Leads</a> on Slack or contact us by <a href="mailto:biotron@uwaterloo.ca"> email.</a>
+      If you have any questions feel free to message any of the <Link to='/about'>Leads</Link> on Slack or contact us by <a href="mailto:biotron@uwaterloo.ca">email.</a>
     </p>
 
   </div>

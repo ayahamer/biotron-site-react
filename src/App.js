@@ -1,4 +1,3 @@
-import './App.css';
 import React from 'react';
 import Navbar from './components/Navbar'; // bringing in the Navbar component so it shows on the site
 import {HashRouter as Router, Routes, Route} from 'react-router-dom';

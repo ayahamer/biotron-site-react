@@ -14,7 +14,7 @@
   display: flex;
   flex-flow: column;
   align-items: center;
-  max-width: 1000px;
+  max-width: 750px;
   width: 100%;
   margin: 0 auto;
 }
@@ -40,11 +40,31 @@
 .enable > p {
   color: #000000;
   text-decoration: none;
-  padding: 1rem 0 2rem 0;
+  padding: 1rem 0 1rem 0;
   margin-right: 1em;
-  margin-bottom: 1rem;
+  margin-bottom: 0.3rem;
 }
 
+.arm {
+  display: flex;
+  flex-direction: row;
+  padding: 1rem 0 1rem 0;
+}
+.arm > p {
+  max-width: 350px;
+  text-align: justify;
+  margin-right: 1rem;
+}
+
+.arm > img {
+  position:static;
+  display: flex;
+  width: 25%;
+  max-width: 30%;
+  height: 20%;
+  max-height: 20%;
+  padding: 1rem;
+}
 .spine > h2 {
   color: #000000;
 }
