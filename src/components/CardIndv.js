@@ -11,8 +11,9 @@ function CardIndv(props) {
             <figure 
               className='cards-indv-figure' data-category={props.label}> 
               <img 
+              className='cards-indv-img'
+              alt="Image"
               src={props.src} 
-              alt="Hand Image" className='cards-indv-img'
               />
             </figure>
 

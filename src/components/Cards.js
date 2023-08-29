@@ -11,13 +11,13 @@ export default function Cards() {
           {/* these cards can be changed accordingly and more can be added */}
           <ul className="cards-item"> {/* connecting card component in CardIndv */}
             <CardIndv 
-              src="public/handtopview.jpeg"
+              src='./handtopview.jpeg'
               text="Our Team"
               label='Team' 
               path='/about'
             />
             <CardIndv 
-              src="public/handtopview.jpeg"
+              src='./handtopview.jpeg'
               text="EMG Fabric for..."
               label='Project' 
               path='/projects'
@@ -25,13 +25,13 @@ export default function Cards() {
           </ul>
           <ul className="cards-item"> {/* connecting card component in CardIndv */}
             <CardIndv 
-              src="public/handtopview.jpeg"
+              src='./handtopview.jpeg'
               text="3D-printed prosthetics"
               label='Project' 
               path='/projects'
             />
             <CardIndv 
-              src="public/handtopview.jpeg"
+              src='./spine.jpg'
               text="A spine stiker that..."
               label='Project' 
               path='/projects'

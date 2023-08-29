@@ -7,7 +7,7 @@ function Hero() {
   return (
     <div className='hero-container'>
         
-        <img src="/public/handtopview.jpeg"/>
+        <img src="/./handtopview.jpeg"/>
         <h1> UW Biomechatronics</h1>
         <p> a University of Waterloo design team</p>
 
