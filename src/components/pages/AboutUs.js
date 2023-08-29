@@ -26,7 +26,7 @@ export default function AboutUs() {
         <div className="team-lead">
           <h3>Team Lead</h3>
           <br/>
-          <img src="./handtopview.jpeg"/>
+          <img src="./claire.jpg"/>
           <p>Claire Thompson</p>
           <br/>
         </div>

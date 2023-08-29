@@ -26,7 +26,7 @@ export default function Join() {
 
   <div className="meeting"> 
     <h2>Meeting Schedule</h2>
-    <h3>Spring 23</h3>
+    <h3>Fall 23</h3>
     <p> Team Meeting: TBD </p>
     <p> EMG Fabric: TBD </p>
     <p> e-NABLE: TBD </p>

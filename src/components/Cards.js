@@ -32,7 +32,7 @@ export default function Cards() {
             />
             <CardIndv 
               src='./spine.jpg'
-              text="A spine stiker that..."
+              text="A spine sticker that..."
               label='Project' 
               path='/projects'
             />

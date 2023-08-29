@@ -1,0 +1,6 @@
+left to do
+- change the ugly hero photo for all pages
+- finish the announcements css
+- change the card pics and headings
+- add all the team leads pics and format
+- add proper project text + pics + format

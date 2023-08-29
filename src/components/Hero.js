@@ -5,6 +5,7 @@ import '../App.css';
 
 function Hero() {
   return (
+   
     <div className='hero-container'>
         
         <img src="/./handtopview.jpeg"/>
