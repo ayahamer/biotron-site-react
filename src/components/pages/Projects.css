@@ -54,6 +54,7 @@
   max-width: 350px;
   text-align: justify;
   margin-right: 1rem;
+  margin-bottom: 0.3rem;
 }
 
 .arm > img {
@@ -65,8 +66,26 @@
   max-height: 20%;
   padding: 1rem;
 }
+
+.hand > p {
+  color: #000000;
+  text-decoration: none;
+  padding: 1rem 0 1rem 0;
+  margin-right: 1em;
+  margin-bottom: 0.3rem;
+}
+
+.animal > p {
+  color: #000000;
+  text-decoration: none;
+  padding: 1rem 0 1rem 0;
+  margin-right: 1em;
+  margin-bottom: 0.3rem;
+}
+
 .spine > h2 {
   color: #000000;
+  margin-top: 2rem;
 }
 
 .spine > p {

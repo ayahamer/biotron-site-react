@@ -25,44 +25,49 @@ export default function AboutUs() {
         
         <div className="team-lead">
           <h3>Team Lead</h3>
+          <br/>
           <img src="/public/handtopview.jpeg"/>
           <p>Claire Thompson</p>
+          <br/>
         </div>
 
         <div className="emg-lead">
-          <h3>EMG Fabric Leads</h3>
+          <h3>EMG Fabric Lead</h3>
           <br />
           <div className='emg-lead-item'>
             <img src="/public/handtopview.jpeg"/>
             <p>Anna Polack</p>
             <br />
-            <p>Subteam Lead</p>
+            {/*<p>Subteam Lead</p> */}
           </div>
-        </div>
+        </div>  
 
         <div className="enable-lead">
           <h3>e-NABLE Leads</h3>
           <br />
-          <div className='enable-lead-item'>
-            <img src="/public/handtopview.jpeg"/>
-            <p>Ayah Amer</p>
-            <br />
-            <p>Co-lead</p>
+          
+          <div className='enable-lead-group'>
+
+            <div className='enable-lead-item'>
+              <img src="/public/handtopview.jpeg"/>
+              <p>Ayah Amer</p>
+              <br />
+            </div>
+
+            <div className='enable-lead-item'>
+             <img src="/public/handtopview.jpeg"/>
+             <p>Lea Slive</p>
+             <br />
+            </div>
+            
+            <div className='enable-lead-item'>
+              <img src="/public/handtopview.jpeg"/>
+              <p>Caroline Miskiel</p>
+              <br />
+            </div>
+
           </div>
 
-          <div className='enable-lead-item'>
-            <img src="/public/handtopview.jpeg"/>
-            <p>Lea Slive</p>
-            <br />
-            <p>Co-lead</p>
-          </div>
-
-          <div className='enable-lead-item'>
-            <img src="/public/handtopview.jpeg"/>
-            <p>Caroline Miskiel</p>
-            <br />
-            <p>Co-lead</p>
-          </div>
         </div>
         
       </div>

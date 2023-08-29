@@ -48,25 +48,36 @@
   color: #1e1d1d;
   justify-content: left;
   font-family: "Montserrat", sans-serrif;
+  margin-bottom: 1rem;
 }
 
 .team-lead {
   flex-direction: row;
+  margin-bottom: 1rem;
 }
 
 .emg-lead {
-  flex-direction: row;
+  flex-direction: column;
   display: flex;
+  margin-bottom: 1rem;
 }
 
 .enable-lead {
+  flex-direction: column;
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.enable-lead-group {
   flex-direction: row;
   display: flex;
+
 }
 
 .enable-lead-item {
   margin-right: 2rem;
   align-items: center;
+  flex-direction: row;
 }
 
 .team > p {
