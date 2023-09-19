@@ -11,7 +11,7 @@ export default function Cards() {
           {/* these cards can be changed accordingly and more can be added */}
           <ul className="cards-item"> {/* connecting card component in CardIndv */}
             <CardIndv 
-              src='./about.jpg'
+              src='./about1.jpg'
               text="Our Team :)"
               label='Team' 
               path='/about'
@@ -32,7 +32,7 @@ export default function Cards() {
             />
             <CardIndv 
               src='./spine.jpg'
-              text="A spine sticker that..."
+              text="A spine sticker that senses overexertiion during spinal surgery recovery"
               label='Project' 
               path='/projects'
             />

@@ -49,7 +49,7 @@ export default function AboutUs() {
           <div className='enable-lead-group'>
 
             <div className='enable-lead-item'>
-              <img src="/./handtopview.jpeg"/>
+              <img src="/./ayah.jpg"/>
               <p>Ayah Amer</p>
               <br />
             </div>

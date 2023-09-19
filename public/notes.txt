@@ -1,6 +1,4 @@
 left to do
-- finish the announcements css
-- change card photos
 - add proper project text + pics + format
 - add responsiveness
--scroll to top when clock on link 
+- scroll to top when clock on link 

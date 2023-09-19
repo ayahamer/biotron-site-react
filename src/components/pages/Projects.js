@@ -12,11 +12,11 @@ export default function Projects() {
         <div className="emg-fabric"> 
           <h2>EMG Fabric</h2>
           <p> 
-            The goal of EMG Frabris is to develop resuable metal EMG electrodes that will sense msucle movememnts and make a prosthetic arm or hand orthotic, grip objects at a pateitn's will. This term we have gathered EMG data and began processing it to identify when a hand is clendched into a fist. We have also began creating the metal electrodes from stainless steel and 3D printed a casing. In future terms we hope to develop a functioning porotype that will process signals live to open and close a mechanical fist.
+            The goal of EMG Frabric is to develop resuable metal EMG electrodes that will sense msucle movements and make a prosthetic arm or hand-orthotic, grip objects at a pateitn's will. Last term we gathered EMG data and began processing it to identify when a hand is clendched into a fist. We also began creating the metal electrodes from stainless steel and 3D printed a casing. In future terms we hope to develop a functioning protoype that will process signals live to open and close a mechanical fist.
           </p>
           <br/>
           <p>
-            EMG Fabric has xx subteams which include: Hardware, Software, _____-
+            EMG Fabric has 3 subteams which include: Hardware, Software, and Mechanical.
           </p>
         </div>
 
