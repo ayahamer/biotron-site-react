@@ -17,7 +17,7 @@
 }
 
 .about {
-  background-image: url('/public/handtopview.jpeg');
+  background-image: url('/public/about.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -26,7 +26,7 @@
 }
 
 .projects {
-  background-image: url('/public/handtopview.jpeg');
+  background-image: url('/public/projects.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

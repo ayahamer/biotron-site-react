@@ -16,7 +16,7 @@ export default function AboutUs() {
         <p> The Biomechatronics (aka Biotron) team is a design team at the University of Waterloo that designs and builds biomechanical devices to solve biomedical problems. We are a group of science and engineering students that create solutions to emerging and existing problems in the biomedical field.  
         <br />
         <br />
-        Our team is comprised of 3 sub-teams: <b>EMG Fabric, e-NABLE, and Spine Bio Sticker</b>, each of which are working on their own projects. You can learn more about each project <Link to='/projects'>here.</Link> 
+        Our team is comprised of 3 sub-teams: <b>EMG Fabric, e-NABLE, and Spine Bio Sticker</b>, each of which are working on their own projects. You can learn more about each project <b><Link to='/projects'>here.</Link> </b>
         </p>
       </div>
 
@@ -35,7 +35,7 @@ export default function AboutUs() {
           <h3>EMG Fabric Lead</h3>
           <br />
           <div className='emg-lead-item'>
-            <img src="./handtopview.jpeg"/>
+            <img src="./anna.png"/>
             <p>Anna Polack</p>
             <br />
             {/*<p>Subteam Lead</p> */}
@@ -55,13 +55,13 @@ export default function AboutUs() {
             </div>
 
             <div className='enable-lead-item'>
-             <img src="/./handtopview.jpeg"/>
-             <p>Lea Slive</p>
+             <img src="/./leaslive.JPG"/>
+             <p>Léa Slive</p>
              <br />
             </div>
             
             <div className='enable-lead-item'>
-              <img src="/./handtopview.jpeg"/>
+              <img src="/./caroline.jpg"/>
               <p>Caroline Miskiel</p>
               <br />
             </div>

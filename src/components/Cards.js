@@ -5,20 +5,20 @@ import './Cards.css';
 export default function Cards() {
   return (
     <div className='cards'>
-      <h1>check these out</h1>
+      <h1>Check these out!</h1>
       <div className="cards-container">
         <div className="cards-wrapper">
           {/* these cards can be changed accordingly and more can be added */}
           <ul className="cards-item"> {/* connecting card component in CardIndv */}
             <CardIndv 
-              src='./handtopview.jpeg'
-              text="Our Team"
+              src='./about.jpg'
+              text="Our Team :)"
               label='Team' 
               path='/about'
             />
             <CardIndv 
-              src='./handtopview.jpeg'
-              text="EMG Fabric for..."
+              src='./emg3.png'
+              text="Metal electrodes that sense muscle movement to control prosthetics"
               label='Project' 
               path='/projects'
             />
@@ -26,7 +26,7 @@ export default function Cards() {
           <ul className="cards-item"> {/* connecting card component in CardIndv */}
             <CardIndv 
               src='./handtopview.jpeg'
-              text="3D-printed prosthetics"
+              text="3D-printed prosthetics for those that need them"
               label='Project' 
               path='/projects'
             />
